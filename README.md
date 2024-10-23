@@ -10,6 +10,8 @@ I am currently collaborating with Actual one as organiser for Mumbai city<br>Bte
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Swaraj2259&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Swaraj2259&theme=calm_pink&hide_border=false)<br/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swaraj2259&theme=radical)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swaraj2259&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
