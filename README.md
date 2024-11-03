@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently collaborating with Actual one as organiser for Mumbai city<br>Btech CSE 2028 <br>Web 3 and Blockchain enthusiast<br>
+I am currently collaborating with Actual one as organiser for Mumbai city<br>Btech CSE 2028 <br>Web3 and Blockchain enthusiast<br>
 
 
 ## 🌐 Socials:
