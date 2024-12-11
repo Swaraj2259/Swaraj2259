@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently collaborated with Actual one as organiser for Mumbai city<br>CSE^28 <br>Web3 and Blockchain enthusiast<br>
+ActulOne Mumbai lead <br>CSE^28 <br>Web3 and Blockchain enthusiast<br>
 
 
 ## 🌐 Socials:
