@@ -22,4 +22,7 @@ ActulOne Mumbai lead <br>CSE^28 <br>Web3 and Blockchain enthusiast<br>
   <img width=325 align="center" title="💻 Top Languages 💻" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swaraj2259&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
   <br/>
+   <h2>Profile Visits</h2>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=Swaraj2259&label=Profile%20views&color=0e75b6&style=flat" alt="Swaraj2259's profile visits" /> </p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
