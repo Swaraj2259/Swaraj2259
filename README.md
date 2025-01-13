@@ -21,6 +21,8 @@ ActulOne Mumbai lead <br>CSE^28 <br>Web3 and Blockchain enthusiast<br>
   <br/>
 
 <br/><br/>
+
+<br/><br/>
    <h2>Profile Visits</h2>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=Swaraj2259&label=Profile%20views&color=0e75b6&style=flat" alt="Swaraj2259's profile visits" /> </p>
 
